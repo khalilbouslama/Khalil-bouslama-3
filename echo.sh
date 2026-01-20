@@ -1,2 +1,2 @@
 echo "hello!"
-GitHub RUN ID
+echo "GITHUB_RUN_ID=${GITHUB_RUN_ID}"
